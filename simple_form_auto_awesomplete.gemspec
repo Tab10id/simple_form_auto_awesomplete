@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
 
   spec.add_dependency 'railties', '>= 3.1'
-  spec.add_dependency 'auto_awesomplete', '~> 0.0.1'
+  spec.add_dependency 'auto_awesomplete', '~> 0.1.0'
   spec.add_dependency 'simple_form'
 
   spec.add_development_dependency 'bundler', '~> 1.5'
